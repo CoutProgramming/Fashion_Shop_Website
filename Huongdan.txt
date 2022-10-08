@@ -1,0 +1,3 @@
+thầy chạy file "index.html" để sử dụng chương trình.
+trong chương trình có những nội dung như bảng cột hàng. có dùng chức năng valid để kiểm tra form 
+có dùng thêm chức năng char(biểu đồ), ngoài ra có thêm chức năng đổi màu (cách sử dụng thầy ấn vô biểu tượng xoay trong bên tay phải sau đó ấn màu mình thích nó sẽ tự đổi). chức năng xem video chức năng ảnh trong ảnh và tải video
